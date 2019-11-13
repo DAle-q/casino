@@ -1,0 +1,13 @@
+D:\projects\casino\casino\bin\Debug\casino.exe.config
+D:\projects\casino\casino\bin\Debug\casino.exe
+D:\projects\casino\casino\bin\Debug\casino.pdb
+D:\projects\casino\casino\bin\Debug\WebDriver.dll
+D:\projects\casino\casino\bin\Debug\WebDriver.xml
+D:\projects\casino\casino\obj\Debug\casino.csprojAssemblyReference.cache
+D:\projects\casino\casino\obj\Debug\casino.Form1.resources
+D:\projects\casino\casino\obj\Debug\casino.Properties.Resources.resources
+D:\projects\casino\casino\obj\Debug\casino.csproj.GenerateResource.cache
+D:\projects\casino\casino\obj\Debug\casino.csproj.CopyComplete
+D:\projects\casino\casino\obj\Debug\casino.exe
+D:\projects\casino\casino\obj\Debug\casino.pdb
+D:\projects\casino\casino\bin\Debug\SeleniumExtras.WaitHelpers.dll
